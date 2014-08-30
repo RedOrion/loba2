@@ -1,16 +1,14 @@
 {
-  "name": "LOBA",
+  "name": "loba2",
+  "description": "A game",
   "version": "0.0.1",
-  "description": "An MMO set on a post nuclear war Earth.",
-  "main": "index.js",
-  "private": true,
   "author": "Nathan McCallum",
-  "license": "GPL 2.0",
-  "bugs": {
-    "url": "https://github.com/Vasari/LOBA2/issues"
-  },
-  "homepage": "https://github.com/Vasari/LOBA2",
+  "private": true,
   "dependencies": {
-    "coffee-script": "^1.8.0"
+    "socketstream": "0.3.x",
+    "ss-coffee": "0.1.x",
+    "ss-jade": "0.1.x",
+    "ss-stylus": "0.1.x",
+    "ss-hogan": "0.1.x"
   }
 }

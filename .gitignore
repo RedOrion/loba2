@@ -1,4 +1,8 @@
-node_modules/
+.DS_Store
+node_modules
+dump.rdb
+npm-debug.log
+tmp
+client/static/assets
 
 *.sublime-*
-npm-debug.log

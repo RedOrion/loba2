@@ -1,5 +1,1 @@
-NEW_PATH=$(pwd)
-NEW_PATH+="/lib"
-export NODE_PATH=$NEW_PATH
-
-node index.js
+nodemon app.js
