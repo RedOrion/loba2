@@ -1,0 +1,16 @@
+{
+  "name": "LOBA",
+  "version": "0.0.1",
+  "description": "An MMO set on a post nuclear war Earth.",
+  "main": "index.js",
+  "private": true,
+  "author": "Nathan McCallum",
+  "license": "GPL 2.0",
+  "bugs": {
+    "url": "https://github.com/Vasari/LOBA2/issues"
+  },
+  "homepage": "https://github.com/Vasari/LOBA2",
+  "dependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
