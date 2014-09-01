@@ -7,7 +7,13 @@ var http = require('http'),
 ss.client.define('loba', {
     view: 'loba.html',
     css:  ['loba.styl'],
-    code: ['libs/jquery.min.js', 'app'],
+    code: [
+        'libs/lodash.js',
+        'libs/jquery.js',
+        'libs/handlebars.js',
+        'libs/ember.js',
+        'app'
+    ],
     tmpl: '*'
 });
 
