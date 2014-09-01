@@ -1,3 +1,7 @@
-# Client Code
+'use strict'
 
-console.log('App Loaded')
+# Main entry point of the code.
+
+console.log 'App loaded!'
+
+console.log ss, ss.tmpl

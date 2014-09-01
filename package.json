@@ -5,10 +5,9 @@
   "author": "Nathan McCallum",
   "private": true,
   "dependencies": {
-    "socketstream": "0.3.x",
-    "ss-coffee": "0.1.x",
-    "ss-jade": "0.1.x",
-    "ss-stylus": "0.1.x",
-    "ss-hogan": "0.1.x"
+    "socketstream": "0.3.10",
+    "ss-coffee": "0.1.0",
+    "ss-jade": "0.1.0",
+    "ss-stylus": "0.1.0"
   }
 }
